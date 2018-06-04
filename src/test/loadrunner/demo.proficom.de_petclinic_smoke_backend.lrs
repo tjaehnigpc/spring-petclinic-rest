@@ -24,7 +24,7 @@ Groups=1
 Vusers=10
 Tranzactions=6
 Rendezvous=0
-Result_file=petclinic_rest_smoke\res\res.lrr
+Result_file=.\petclinic_rest_smoke\res\res.lrr
 ResCleanName=res
 ResSymName=
 DEFAULT_NFS_LESS_MODE=1
@@ -192,7 +192,7 @@ UiName=petclinic_rest_smoke
 Type=1
 SubType=Multi+QTWeb
 ScriptType=10
-Path=petclinic_rest_smoke\petclinic_rest_smoke.usr
+Path=.\petclinic_rest_smoke\petclinic_rest_smoke.usr
 EmulatedLocation=None
 NVAnalytics=0
 Config=[WEB]\r\nMaxConnections="0"\r\nLogFileWriteTraceToFile="0"\r\nSearchForImages="1"\r\nLogFileWrite="0"\r\nWebRecorderVersion="8"\r\n[Log]\r\nMsgClassParameters="0"\r\nMsgClassData="0"\r\nLogOptions="LogBrief"\r\nMsgClassFull="0"\r\nAutoLog=1\r\n[General]\r\nXlBridgeTimeout="120"\r\nDefaultRunLogic="usp4fd.251"\r\nAutomaticTransactions="1"\r\nautomatic_nested_transactions="1"\r\n[Iterations]\r\nRandomMax="90"\r\nRandomMin="60"\r\nIterationPace="IterationASAP"\r\nStartEvery="60"\r\nNumOfIterations="1"\r\n[ThinkTime]\r\nOptions=RECORDED\r\nFactor="1"\r\nLimit="1"\r\nLimitFlag="0"\r\n
