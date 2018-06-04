@@ -1,0 +1,12 @@
+[END_TRANSACTION]
+1="vuser_init_Transaction"
+2="01_get_pets"
+3="02_get_visits"
+4="03_get_owners"
+5="Action_Transaction"
+6="https://demo.proficom.de/petclinicrest/pets"
+7="GET_https_//demo.proficom_Action_5"
+8="https://demo.proficom.de/petclinicrest/visits"
+9="GET_https_//demo.profico_Action_15"
+10="https://demo.proficom.de/petclinicrest/owners"
+11="GET_https_//demo.profico_Action_25"

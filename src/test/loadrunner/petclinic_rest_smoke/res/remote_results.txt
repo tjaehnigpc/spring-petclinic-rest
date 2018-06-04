@@ -1,0 +1,2 @@
+[Hosts]
+localhost=C:\Users\Administrator\Desktop\petclinic_rest_smoke\res\localhost_1.eve
