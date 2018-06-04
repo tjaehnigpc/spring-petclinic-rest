@@ -5164,7 +5164,7 @@ XMLData=<Mediators distribution = "1" enabled= "1" ><Mediator type= "SARM" enabl
 }
 
 {ScenarioSLAConfig
-<?xml version="1.0" encoding="UTF-8"?><SLA Version="1.0"><TxList><Tx>vuser_end_Transaction</Tx><Tx>02_get_visits</Tx><Tx>vuser_init_Transaction</Tx><Tx>03_get_owners</Tx><Tx>01_get_pets</Tx><Tx>Action_Transaction</Tx></TxList><SLARules><TrackingPeriodType>Default</TrackingPeriodType><TrackingPeriodValue></TrackingPeriodValue><TrackingPeriodTimeScale></TrackingPeriodTimeScale><RulesGroup Type="Simple"><Name>Simple Rules</Name><SimpleRule Name="average_hits"><Measurement>average_hits</Measurement><AggFunction>Average</AggFunction><CalcDirection>greater_than_equal</CalcDirection><Value>70</Value></SimpleRule></RulesGroup></SLARules></SLA>
+<?xml version="1.0" encoding="UTF-8"?><SLA Version="1.0"><TxList><Tx>vuser_end_Transaction</Tx><Tx>02_get_visits</Tx><Tx>vuser_init_Transaction</Tx><Tx>03_get_owners</Tx><Tx>01_get_pets</Tx><Tx>Action_Transaction</Tx></TxList><SLARules><TrackingPeriodType>Default</TrackingPeriodType><TrackingPeriodValue></TrackingPeriodValue><TrackingPeriodTimeScale></TrackingPeriodTimeScale><RulesGroup Type="Simple"><Name>Simple Rules</Name><SimpleRule Name="average_hits"><Measurement>average_hits</Measurement><AggFunction>Average</AggFunction><CalcDirection>greater_than_equal</CalcDirection><Value>25</Value></SimpleRule></RulesGroup></SLARules></SLA>
 }
 
 {ScenarioSEVConfig
